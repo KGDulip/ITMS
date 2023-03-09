@@ -1,5 +1,5 @@
 # ITMS
- Web Based Industrial Training Management System (ITMS)
+Web Based Industrial Training Management System (ITMS)
 Web application (ITMS) download URL - https://github.com/KGDulip/ITMS.git
 File save path (Should be create ITM folder in htdocs) - C:\xampp\htdocs\ITM
 Should be extracted db_itms.sql - C:\xampp\mysql\data\db_itms
